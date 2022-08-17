@@ -21,3 +21,6 @@ them along with all transaction details.</li>
 <li><b><i>User</i></b> gets the option to create profile, view events and register for
 those events.</li>
 </ol>
+
+<hr>
+<i>Submitted in partial fulfillment of the requirements for CSE2004 : Database Management Systems</i>
